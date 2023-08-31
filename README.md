@@ -8,4 +8,4 @@ To run the code, open the HTML file in a web browser.
 
 This is a simple example of how User can calculate Tip according to service. This code can be used as a starting point for more complex projects.
 
-hosted link:
+hosted link:https://suk-18.github.io/Tipcalculator.github.io/
